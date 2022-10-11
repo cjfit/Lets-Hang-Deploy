@@ -22,5 +22,5 @@ We felt incredibly proud of being able to work together for this and get this pr
 ## What we learned
 We advanced our technical skills of JavaScript and backend frameworks and APIs, but most importantly learned how to work well together as a team and communicate. We went into this project as a group, and we came out a team. We are all incredibly grateful for each other's effort in this project and support.
 
-## What's next for wandR
+## What's next for Let's Hang
 We want to pitch this idea to other students and see if they are as thrilled by it as we are. One of our group members frequents the Close School of Entrepreneurship that has backed student entrepreneurs at Drexel in computer science in the past. We'd like to see if there is value for this in the community to raise awareness of sustainable transit options powered by technology.
